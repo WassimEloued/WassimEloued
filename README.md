@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Wassim Eloued
 
-<!--
-**WassimEloued/WassimEloued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full-Stack PHP Developer with experience in web development, focusing on clean code, automated testing, and scalable applications.
 
-Here are some ideas to get you started:
+### 💼 About Me
+- 💻 Experienced in **PHP**, **Symfony**, **JavaScript**, **React**, and **Vue.js**
+- 🛠️ Skilled with **MySQL**, **REST APIs**, **Git**, **HTML**, **CSS**, and **Bootstrap**
+- 🔄 Familiar with **CI/CD pipelines**, **automated testing** (PHPUnit), and deployment workflows
+- 🌍 Based in **Tunisia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 My Portfolio & CV
+- 🧑‍💼 [LinkedIn Profile](https://www.linkedin.com/in/eloued-wassim-370858255/)
+- 📂 [GitHub Portfolio](https://github.com/WassimEloued)
+
+### 📫 How to reach me
+- 📧 elouedwassim@wassim.com
+- 📱 +216 20259636
+
+---
+
+> ⚡ “I enjoy building tools that solve real problems and always aim to write clean, maintainable, and tested code.”
+
