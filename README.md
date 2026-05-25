@@ -3,8 +3,8 @@
 🎯 Full-Stack PHP Developer with experience in web development, focusing on clean code, automated testing, and scalable applications.
 
 ### 💼 About Me
-- 💻 Experienced in **PHP**, **Symfony**, **JavaScript**, **React**, and **Vue.js**
-- 🛠️ Skilled with **MySQL**, **REST APIs**, **Git**, **HTML**, **CSS**, and **Bootstrap**
+- 💻 Experienced in **PHP**, **Symfony**, **JavaScript**, **React**, and **Vue.js** , and **Angular** , and **Spring boot**
+- 🛠️ Skilled with **MySQL**, **REST APIs**, **Git**, **HTML**, **CSS**, and **Bootstrap** and **postgresql**
 - 🔄 Familiar with **CI/CD pipelines**, **automated testing** (PHPUnit), and deployment workflows
 - 🌍 Based in **Tunisia**
 
