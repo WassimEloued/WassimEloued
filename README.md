@@ -1,5 +1,3 @@
-### Salut, je suis [Prénom] Ẹ 👋
-
 Développeur Full-Stack Junior spécialisé en **Angular**, **Spring Boot** et **PostgreSQL**, avec une expérience concrète en applications web sécurisées et en solutions intégrant l'IA.
 
 - 🔭 Actuellement : développement de **StepUpRecruiting**, une plateforme de recrutement complète (authentification JWT, gestion des candidatures, quiz, messagerie, appairage intelligent via IA).
