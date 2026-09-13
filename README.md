@@ -1,12 +1,5 @@
 Développeur Full-Stack Junior spécialisé en **Angular**, **Spring Boot** et **PostgreSQL**, avec une expérience concrète en applications web sécurisées et en solutions intégrant l'IA.
 
-- 🔭 Actuellement : développement de **StepUpRecruiting**, une plateforme de recrutement complète (authentification JWT, gestion des candidatures, quiz, messagerie, appairage intelligent via IA).
-- 🌱 En apprentissage continu sur les architectures cloud et le déploiement conteneurisé.
-- 💬 Je peux échanger en français, arabe et anglais.
-- 📫 Me contacter : [elouedwassim@gmail.com](mailto:elouedwassim@gmail.com) · [LinkedIn](https://linkedin.com/in/eloued-wassim-370858255)
-
----
-
 #### 🛠️ Stack technique
 
 **Langages**
